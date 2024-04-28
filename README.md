@@ -24,7 +24,3 @@
   - burning
   - main menu backgroud
   - game background 
-
-
-22.3 (Windows)
-
